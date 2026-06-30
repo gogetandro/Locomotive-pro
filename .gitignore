@@ -1,5 +1,0 @@
-backend/.venv
-backend/locomotive.db
-backend/.env
-frontend/node_modules
-frontend/dist
